@@ -7,7 +7,7 @@ import java.sql.*;
 
 public class Login extends JFrame implements ActionListener{
     
-    JTextField tfusername, tfpassword;
+    JTextFirun:eld tfusername, tfpassword;
     
     Login() {
         
